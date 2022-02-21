@@ -6,6 +6,14 @@ Based on the previous analysis of data of employees at Pewlett Hackard, Bobby ha
 
 **RESULTS**
 
+*About 98% of current employees fall within the retirement bracket.
+
+*only 1550 employees are eligible for mentorship program
+
+* Most of the employees elibible for mentorship occupy senior positions.
+
+*Pewlett Hackard is top heavy.
 
 
 **SUMMARY**
+
