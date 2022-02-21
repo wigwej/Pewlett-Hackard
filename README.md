@@ -16,4 +16,7 @@ Based on the previous analysis of data of employees at Pewlett Hackard, Bobby ha
 
 
 **SUMMARY**
+Roles to be filled: the retiring titles table and the Unique titles table provide a list of titles of employees fue for retirement. Over twenty four thousand were senior staff, over seven thousand are Engineers and three thousand six hundred and one are technical leaders. Of the current staff, there appears to be sufficient staff to cover for the roles of the retiring staff in event of a silver tsunami.
+
+The quantum of technical leaders, engineers and senior staff balance out.  Commensurate with the number of employees left after retriement,  there appears to be enough qualified mentors left over. 
 
